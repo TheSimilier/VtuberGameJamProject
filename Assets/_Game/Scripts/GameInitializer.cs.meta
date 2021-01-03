@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: adee0b69e2e27ce4c951b4dcc770ca5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - followers: {fileID: 11400000, guid: 36687b4c9eefb804dabf2be2de9fbc5a, type: 2}
+  - funds: {fileID: 11400000, guid: 3c81f8218a8e8364f8a158e5a82977e7, type: 2}
+  - subscribers: {fileID: 11400000, guid: 62b9e3f36d8f4e8478bc28c5d9401b73, type: 2}
+  - u1: {fileID: 11400000, guid: 5033165de84855740a6d1881a15caf3f, type: 2}
+  - u2: {fileID: 11400000, guid: 3f37e8fccc69a734f8159fd77244b3dd, type: 2}
+  - u3: {fileID: 11400000, guid: a75ce8137ab64434788b52adc3cf48aa, type: 2}
+  - u4: {fileID: 11400000, guid: 7c899e0a2f3aed7458b92afa9d280e9f, type: 2}
+  - u5: {fileID: 11400000, guid: 22cd3b282194f974b9086f92a08ffa39, type: 2}
+  - u6: {fileID: 11400000, guid: 4fe025584b419724093a21e3fa7f4d1a, type: 2}
+  - u7: {fileID: 11400000, guid: 1e8d8bd0d10d34541810dffdcac089e4, type: 2}
+  - u8: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
