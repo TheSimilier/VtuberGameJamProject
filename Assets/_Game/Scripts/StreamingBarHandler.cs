@@ -20,7 +20,7 @@ public class StreamingBarHandler : MonoBehaviour
         if(slider.value == 1)
         {
             ob.SetActive(false);
-            slider.value = 0;
+            slider.GetComponent<StreamingBar>().CurrentValue = 0;
             btn.GetComponent<StreamHandler>().onClick();
         }
     }
